@@ -1,0 +1,6 @@
+
+            # Application configuration file
+            app:
+              name: EnterpriseGradeKotlinProject
+              version: 1.0
+            
